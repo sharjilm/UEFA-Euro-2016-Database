@@ -1,5 +1,4 @@
 -- This file contains data for creation of tables in soccer database
-connect to se3db3;
 
 --++++++++++++++++++++++++++++++++++++++++++++++
 -- CREATE TABLES
