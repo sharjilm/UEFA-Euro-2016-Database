@@ -1,5 +1,4 @@
 -- This file contains data for population of tables in soccer database
-connect to se3db3;
 
 /* INSERT QUERY*/ 
 INSERT INTO playing_position(position_id, position_desc)
@@ -23,7 +22,7 @@ values
 (5557,	'Joachim Low'),
 (5558,	'Bernd Storck'),
 (5559,	'Lars Lagerback'),
-(5560,	'Heimir Hallgrímsson'),
+(5560,	'Heimir HallgrÃ­msson'),
 (5561,	'Antonio Conte'),
 (5562,	'Michael ONeill'),
 (5563,	'Adam Nawalka'),
@@ -634,7 +633,7 @@ values
 (160488,1922,18,'Caner Erkin ','DF','1988-10-04',27, 'Fenerbahce'), 
 (160503,1922,19,'Yunus Malli ','MF','1992-02-24',24, 'Mainz'), 
 (160502,1922,20,'Volkan Sen ','MF','1987-07-07',28, 'Fenerbahce'), 
-(160506,1922,21,'Emre Mor ','FD','1997-07-24',18, 'Nordsjælland'), 
+(160506,1922,21,'Emre Mor ','FD','1997-07-24',18, 'NordsjÃ¦lland'), 
 (160493,1922,22,'Sener Ozbayrakli ','DF','1990-01-23',26, 'Fenerbahce'), 
 (160484,1922,23,'Harun Tekin ','GK','1989-06-17',27, 'Bursaspor'), 
 (160507,1923,1,'Denys Boyko ','GK','1988-01-29',28, 'Besiktas'), 
